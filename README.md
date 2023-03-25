@@ -54,7 +54,7 @@ List of symbols recognized by the DrawBot:
   - **[** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Save the DrawBot's current state (x-coordinate, y-coordinate, and direction)
   - **]** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Return to the last saved state
 
-***NOTE:** Always ensure that there is a matching number of open brackets ("[") and closing brackets ("]")!*
+***NOTE:** Always ensure that there is a matching number of open brackets ('[') and closing brackets (']')!*
 
 ## Information on L-Systems: ##
 
